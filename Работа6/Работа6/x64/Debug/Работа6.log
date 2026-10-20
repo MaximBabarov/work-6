@@ -1,0 +1,4 @@
+﻿  work.c
+C:\Users\Matsu\source\repos\Работа6\Работа6\work.c(84,65): warning C4013: pow: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Matsu\source\repos\Работа6\Работа6\work.c(85,1): warning C4716: work2: должна возвращать значение
+  Работа6.vcxproj -> C:\Users\Matsu\source\repos\Работа6\x64\Debug\Работа6.exe
